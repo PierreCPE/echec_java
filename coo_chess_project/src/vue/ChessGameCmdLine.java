@@ -15,6 +15,7 @@ import controler.controlerLocal.ChessGameControler;
  * @author francoise.perrin
  * Inspiration Jacques SARAYDARYAN, Adrien GUENARD *
  * 
+ * 
  * Vue console d'un jeu d'échec
  * Cette classe est un observateur et le damier est mis à jour à chaque changement dans la classe métier
  */
